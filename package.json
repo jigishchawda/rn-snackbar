@@ -1,0 +1,48 @@
+{
+  "name": "snackbar",
+  "version": "1.0.0",
+  "description": "snackbar component for react-native application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "flow": "flow"
+  },
+  "author": "Jigish Chawda",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jigishchawda/rn-snackbar.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "snackbar"
+  ],
+  "bugs": {
+    "url":
+      "https://github.com/jigishchawda/rn-snackbar/issues"
+  },
+  "homepage":
+    "https://github.com/jigishchawda/rn-snackbar",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.0.0-beta.5",
+    "react-native": "0.52.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.2.1",
+    "babel-jest": "^22.1.0",
+    "babel-preset-flow": "^6.23.0",
+    "eslint": "^4.18.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-react": "^7.7.0",
+    "flow-bin": "^0.72.0"
+  }
+}
