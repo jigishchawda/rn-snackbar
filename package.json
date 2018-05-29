@@ -2,7 +2,7 @@
   "name": "snackbar",
   "version": "1.0.0",
   "description": "snackbar component for react-native application",
-  "main": "index.js",
+  "main": "SnackBar.js",
   "scripts": {
     "test": "jest",
     "flow": "flow"
